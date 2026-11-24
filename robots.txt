@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://verafiling-studio.modestlynx31.chatgpt.site/sitemap.xml
